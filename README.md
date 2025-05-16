@@ -1,6 +1,6 @@
 # Quick Clip Manager
 
-A desktop application for quick clipboard management with hotkey activation and alias functionality.
+Quick Clip Manager (QCM) is a desktop application that made to help people saving their long paragraph under short alias such as "/hello" or something like that. By the way, I vibe coding this whole application lol.
 
 ## Features
 - Activate with hotkey (Ctrl+F1)
